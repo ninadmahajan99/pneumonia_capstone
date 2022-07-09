@@ -29,7 +29,7 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'static'
 
 model_path = "Copy of final_model_unet_vgg16_13_10_adam_0.005_64.h5"
-@app.route("/default") 
+@app.route("/") 
 def hello():
     return render_template('index.html')
 
