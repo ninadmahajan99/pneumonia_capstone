@@ -1,13 +1,13 @@
 albumentations==1.2.0
 Flask==1.1.2
 keras==2.9.0
-matplotlib==3.5.1
-numpy==1.20.3
+matplotlib
+numpy
 opencv_python_headless
-pandas==1.4.1
+pandas
 Pillow==9.2.0
 pydicom==2.3.0
 scikit-image
 scikit-learn
-seaborn==0.11.2
+seaborn
 tensorflow==2.9.1
