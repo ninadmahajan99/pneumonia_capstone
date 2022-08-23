@@ -2,7 +2,7 @@ Flask==1.1.2
 keras==2.9.0
 matplotlib
 numpy
-opencv_python_headless
+opencv_python_headless==4.5.2.52
 pandas
 Pillow==9.2.0
 pydicom==2.3.0
